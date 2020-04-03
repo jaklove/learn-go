@@ -59,8 +59,6 @@ func upload(w http.ResponseWriter, r *http.Request)  {
 		defer openFile.Close()
 		io.Copy(openFile,file)
 	}
-
-
 }
 
 func main()  {
