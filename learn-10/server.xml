@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<servers>
+    <server>
+        <severName>Shanghai VPN</severName>
+        <severIp>127.0.0.1</severIp>
+    </server>
+    <server>
+        <severName>beijing VPN</severName>
+        <severIp>127.0.0.2</severIp>
+    </server>
+</servers>

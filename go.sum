@@ -1,3 +1,9 @@
+github.com/astaxie/beedb v0.0.0-20141221130223-1732292dfde4 h1:H6nlE+4uYvw3cLPG+6VyZC95cK7v4IOSJtSgFqRyAk8=
+github.com/astaxie/beedb v0.0.0-20141221130223-1732292dfde4/go.mod h1:2b16Ly607ElY8oA125L5xtogpOZ3MsWgAxunF3WDDbA=
+github.com/astaxie/goredis v0.0.0-20160824151742-1f1c6e6fc3a8 h1:XN8UQV0Zro09FeYjkwEdGTmP+QFXfc95EDXKRxhOUAs=
+github.com/astaxie/goredis v0.0.0-20160824151742-1f1c6e6fc3a8/go.mod h1:i0oI4E/DxCwoJG6iblWnjgLaTrbSEOtUxLtcZA6i7ac=
+github.com/bitly/go-simplejson v0.5.0 h1:6IH+V8/tVMab511d5bn4M7EwGXZf9Hj6i2xSwkNEM+Y=
+github.com/bitly/go-simplejson v0.5.0/go.mod h1:cXHtHw4XUPsvGaxgjIAn8PhEWG9NfngEKAMDJEczWVA=
 github.com/go-sql-driver/mysql v1.5.0 h1:ozyZYNQW3x3HtqT1jira07DN2PArx2v7/mN66gGcHOs=
 github.com/go-sql-driver/mysql v1.5.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
 github.com/gorilla/schema v1.1.0 h1:CamqUDOFUBqzrvxuz2vEwo8+SUdwsluFh7IlzJh30LY=
@@ -7,3 +13,5 @@ github.com/mattn/go-sqlite3 v2.0.3+incompatible h1:gXHsfypPkaMZrKbD5209QV9jbUTJK
 github.com/mattn/go-sqlite3 v2.0.3+incompatible/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
 github.com/mikespook/mymysql v0.4.7 h1:/vf+QZUDSuIy7koS112XwT7gs0wQWFUCVN1E6YBP4aQ=
 github.com/mikespook/mymysql v0.4.7/go.mod h1:vCc6GqEFxKvZgwjvaD9yrdi/cmuGnPl74bsyk2W4bE0=
+github.com/ziutek/mymysql v1.5.4 h1:GB0qdRGsTwQSBVYuVShFBKaXSnSnYYC2d9knnE1LHFs=
+github.com/ziutek/mymysql v1.5.4/go.mod h1:LMSpPZ6DbqWFxNCHW77HeMg9I646SAhApZ/wKdgO/C0=
